@@ -1,0 +1,24 @@
+body {
+	background: #2f3de029;
+	padding: 20px;
+}
+
+div {
+	border: 3px dotted #c9c6fd;
+	padding: 10px;
+	margin: 10px;
+}
+
+.table1 th {
+	border: 3px dotted gray;
+	padding: 10px;
+	margin: 10px;
+	background: pink;
+}
+
+.table1 td {
+	border: 3px dotted gray;
+	padding: 10px;
+	margin: 10px;
+	background: lime;
+}
